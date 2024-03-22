@@ -24,6 +24,9 @@ const Navbar = () => {
               <a  >
                 Add Job
               </a>
+              <a  >
+                Add Job
+              </a>
             </div>
           </div>
         </div>
